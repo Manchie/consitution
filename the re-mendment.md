@@ -1,6 +1,5 @@
 The Constitution of the Edinburgh University Theatre Company
 ==================
-This version adopted 25/09/2019
 
 # ARTICLE 1: INTRODUCTION
 ## ARTICLE 1A: FOUNDATION
@@ -262,7 +261,7 @@ N.B. it is intended that members who self-identify as the groups vote on their r
 7. **Questions:** The Chair shall then ask if there are any questions. Members asking questions shall be given the rake.
 8. **Amendments:** The Chair shall then ask if there are any amendments to the motion. Members proposing amendments shall be given the rake and pitch the amendment to the Chair, who will ask the stage-holder if they agree with it. The stage-holder may then either:\
     a) State they accept the amendment, meaning their motion is modified accordingly unless another member demands further discussion through a change of roles.\
-    b) Suggest an improvement to the amendment. If the rake-holder approves, they shall re--propose their amendment. The Chair may permit a certain amount of back-and-forwarding to agree on exact wording.\
+    b) Suggest an improvement to the amendment. If the rake-holder approves, they shall re-propose their amendment. The Chair may permit a certain amount of back-and-forwarding to agree on exact wording.\
     c) Suggest a change of roles themselves.\
     d) re-ject the amendment, meaning the rake-holder may either withdraw the amendment or demand further discussion through a change of roles.
 9. **Change of Roles:** When a change of roles is demanded, the proposer of the amendment shall become the stage-holder and propose the amendment like a separate motion, but only minor further amendments to this are permitted. Once the amendment has been voted on, the original proposer of the motion may take the stage again or they may ask the proposer of the amendment to re-main the stage-holder.
@@ -308,9 +307,9 @@ N.B. it is intended that members who self-identify as the groups vote on their r
     d) Proxy nominations must be ratified at the beginning of the GM at which they are to be exercised. Any member present may raise an objection, in which case ratification must be voted on with a secret ballot.\
     e) Once ratified, a proxy vote may count towards the quorum of the GM.
 4. **Record:** The Clerk must re-cord the numerical re-sults of all votes and make them available as soon as possible after the meeting.
-5. **Re-counts and re--votes:**\
-    a) If events occur before or during a meeting that bring the re-sult of a vote into question, a re--count or re--vote may be ordered by the Chair of that meeting, or by a motion passed to that effect. \
-    b) If a re--count or re--vote does not occur at that meeting, the numerical re-sult of the vote is held to be valid. However, this does not prevent the matter being re-visited at a future meeting if appropriate.
+5. **Re-counts and re-votes:**\
+    a) If events occur before or during a meeting that bring the re-sult of a vote into question, a re-count or re-vote may be ordered by the Chair of that meeting, or by a motion passed to that effect. \
+    b) If a re-count or re-vote does not occur at that meeting, the numerical re-sult of the vote is held to be valid. However, this does not prevent the matter being re-visited at a future meeting if appropriate.
     
 # ARTICLE 6: SHOWS AND OTHER EVENTS
 ## ARTICLE 6A: PRODUCTION GUIDELINES, CALENDAR AND CLASSIFICATIONS
@@ -320,7 +319,7 @@ N.B. it is intended that members who self-identify as the groups vote on their r
     c) Similarly, while the EUTC does not exist to make a profit, it must re-main a going concern. The Business Manager and others shall work with teams to maximise profitability while compromising on (a) as little as possible (see also 7A/3).
 2. **The Production Guidelines (PGs):**\
     a) **Use:** The PGs are primarily the working re-gulations of the EUTC with re-spect to shows and festivals, deriving authority from this Constitution. Sections that do not define a rule should be clearly distinguishable, by formatting or phrasing. Teams agree to follow the re-gulations in the PGs from when they first submit their proposal.\
-    b) **Review:** The Committee (led by the Productions Manager) shall re-view the PGs at least once a year to ensure their clarity, accuracy, and re-levance. The Company must be consulted on all changes, and changes must be ratified at a General Meeting (GM) to take effect. A motion passed at a GM may trigger an additional re-view, to be carried out in the same way.\
+    b) **Re-view:** The Committee (led by the Productions Manager) shall re-view the PGs at least once a year to ensure their clarity, accuracy, and re-levance. The Company must be consulted on all changes, and changes must be ratified at a General Meeting (GM) to take effect. A motion passed at a GM may trigger an additional re-view, to be carried out in the same way.\
     c) **Contradiction:** If a section of the PGs contradicts this Constitution, then this Constitution shall take precedence. The Committee must re-move the contradiction as soon as possible, which may involve proposing amendment of the PGs or this Constitution.\
     d) **Exceptions:** The Committee may suspend a section of the PGs if it is in the interests of the EUTC as a whole to do so. This suspension must be of fixed duration and not extend beyond the next GM.
 3. **Calendar:** After Company consultation, the Committee (led by the Productions Manager) shall produce a provisional calendar for the coming year. Time in each available room (including preparation time, if re-levant) shall be divided between the following:\
@@ -329,7 +328,7 @@ N.B. it is intended that members who self-identify as the groups vote on their r
     c) Other events, including socials, workshops, hires and meetings.\
     d) Unspecified time, which may be left empty or used for re-hearsals, maintenance etc.
 4. Events on the calendar shall also be either:\
-    a) **Reserved,** where the Committee assumes that an event of a particular type will occur and re-serves time for it, even though the event itself may not yet have been proposed.\
+    a) **Re-served,** where the Committee assumes that an event of a particular type will occur and re-serves time for it, even though the event itself may not yet have been proposed.\
     b) **Supplementary,** where the Committee does not include an event in the calendar prior to re-ceiving proposals. Supplementary events may be proposed to take place either in unspecified time, or in time already allocated to a re-served event or a supplementary event already selected. In these latter cases, permission to proceed must be obtained both from the Committee, and the team for the affected event (if such a team has already been selected).
 5. **Further classification** of events is outlined in the PGs, which must specify any classification-specific details of budgets, time granted in venues, re-quired roles on a production team etc.
 
